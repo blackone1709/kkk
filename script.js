@@ -6,9 +6,9 @@ const videoContainer = document.getElementById("videoContainer");
 const video = document.getElementById("birthdayVideo");
 
 const texts = [
-  "Chúc bro tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
-  "Học kỳ tới auto điểm cao, học bổng bay vào tay 😎✨",
-  "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho bro chill tẹt ga 🎁🎉"
+  "Chúc mừng sinh nhật nàng 2K6 năng động! Tuổi mới thật nhiều niềm vui, thật nhiều trải nghiệm thú vị và thật nhiều điểm cao nha. Cứ tự tin tỏa sáng theo cách riêng của bản thân nhé!  😎✨🥳🔥",
+  
+  "Hãy cứ sống chân thành, yêu thương bản thân và đừng quên dành thời gian tận hưởng vẻ đẹp của tuổi trẻ. Hy vọng tuổi mới sẽ mang đến cho cậu thật nhiều may mắn, bình an và một trái tim luôn tràn đầy tình yêu thương. Happy birthday!🎁🎉"
 ];
 
 giftBox.addEventListener('click', () => {
